@@ -1,0 +1,15 @@
+{
+  "name": "com.unity.device-simulator.devices",
+  "displayName": "Device Simulator Devices",
+  "version": "1.0.0-pre.1",
+  "unity": "2022.1",
+  "description": "Additional devices for Device Simulator. Full list of devices can be found in the documentation.",
+  "upmCi": {
+    "footprint": "27c239c010a856ec15c612198901d92a39cf1c95"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.device-simulator.devices.git",
+    "type": "git",
+    "revision": "2eae48b7c9d42d6a6094b647eabf513ac37250ca"
+  }
+}
