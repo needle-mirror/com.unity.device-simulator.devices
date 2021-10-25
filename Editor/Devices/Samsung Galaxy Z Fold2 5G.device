@@ -1,5 +1,5 @@
 {
-    "friendlyName": "Samsung Galaxy Z Fold2 5G (Phone)",
+    "friendlyName": "Samsung Galaxy Z Fold2 5G",
     "version": 1,
     "screens": [
         {
@@ -86,6 +86,7 @@
                 }
             ],
             "presentation": {
+                "name": "Phone",
                 "overlayPath": "DeviceOverlays/Samsung Galaxy Z Fold2 5G_1_Overlay.png",
                 "borderSize": {
                     "x": 60.0,
@@ -94,6 +95,101 @@
                     "w": 60.0
                 },
                 "cornerRadius": 60.0
+            }
+        },
+        {
+            "width": 1768,
+            "height": 2208,
+            "navigationBarHeight": 144,
+            "dpi": 480.0,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1768.0,
+                        "height": 2120.0
+                    },
+                    "cutouts": [
+                        {
+                            "serializedVersion": "2",
+                            "x": 1309.0,
+                            "y": 2120.0,
+                            "width": 75.0,
+                            "height": 88.0
+                        }
+                    ]
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 88.0,
+                        "width": 1768.0,
+                        "height": 2120.0
+                    },
+                    "cutouts": [
+                        {
+                            "serializedVersion": "2",
+                            "x": 384.0,
+                            "y": 0.0,
+                            "width": 75.0,
+                            "height": 88.0
+                        }
+                    ]
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 88.0,
+                        "y": 0.0,
+                        "width": 2120.0,
+                        "height": 1768.0
+                    },
+                    "cutouts": [
+                        {
+                            "serializedVersion": "2",
+                            "x": 0.0,
+                            "y": 1309.0,
+                            "width": 88.0,
+                            "height": 75.0
+                        }
+                    ]
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2120.0,
+                        "height": 1768.0
+                    },
+                    "cutouts": [
+                        {
+                            "serializedVersion": "2",
+                            "x": 2120.0,
+                            "y": 384.0,
+                            "width": 88.0,
+                            "height": 75.0
+                        }
+                    ]
+                }
+            ],
+            "presentation": {
+                "name": "Tablet",
+                "overlayPath": "DeviceOverlays/Samsung Galaxy Z Fold2 5G_2_Overlay.png",
+                "borderSize": {
+                    "x": 60.0,
+                    "y": 60.0,
+                    "z": 60.0,
+                    "w": 60.0
+                },
+                "cornerRadius": 90.0
             }
         }
     ],
