@@ -26,6 +26,8 @@ This package contains additional devices for the [Device Simulator](https://docs
 - Apple iPhone 12 Pro Max
 - Apple iPhone 12 Pro
 - Apple iPhone 12
+- Apple iPhone 13 Pro Max
+- Apple iPhone 13 Pro
 - Apple iPhone SE (2nd generation)
 - Apple iPhone X
 - Apple iPhone XR
@@ -70,6 +72,7 @@ This package contains additional devices for the [Device Simulator](https://docs
 - Samsung Galaxy S10 5G
 - Samsung Galaxy S10+
 - Samsung Galaxy S10e
+- Samsung Galaxy Z Flip3 5G
 - Samsung Galaxy Z Fold2 5G (Phone)
 - Samsung Galaxy Z Fold2 5G (Tablet)
 - Sony Xperia XZ Premium

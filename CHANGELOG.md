@@ -4,6 +4,14 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [1.0.0] - 2022-02-07
+
+### Added devices
+
+- Apple iPhone 13 Pro
+- Apple iPhone 13 Pro Max
+- Samsung Galaxy Z Flip3 5G
+
 ## [1.0.0-pre.4] - 2021-10-25
 
 - Updated Samsung Fold2 device to store both screens in the same device file. 
